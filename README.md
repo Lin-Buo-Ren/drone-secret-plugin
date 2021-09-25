@@ -1,3 +1,11 @@
+# Workarounded drone-secret-plugin build
+
+This fork provide a workaround of [Unable to launch the container after docker build · Issue #2 · drone/drone-secret-plugin](https://github.com/drone/drone-secret-plugin/issues/2) issue.
+
+Original README below:
+
+---
+
 This extension provides global secrets for use in your pipelines. This extension is a direct port of the global secret file in Drone 0.8. _Please note this project requires Drone server version 1.4 or higher._
 
 ## Secret File
